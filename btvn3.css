@@ -1,0 +1,109 @@
+
+.caihopogoc {
+    width: 120px;
+    height: 100px;
+    background-color: red; 
+    margin-bottom: 20px;
+}
+.mauxanhdam {
+    width: 120px;
+    height: 25px;
+    background-color: rgb(5, 78, 54);
+}
+.mauxanhdamocuoi {
+    width: 120px;
+    height: 25px;
+    background-color: rgb(5, 78, 54);
+    margin-bottom: 20px;
+}
+.xanhnhathon {
+    width: 120px;
+    height: 20px;
+    background-color: rgb(16, 180, 125);
+}
+.hopmauxam {
+    width: 120px;
+    height: 200px;
+    background-color: rgb(187, 177, 177);
+}
+.hopmauxam2 {
+    width: 120px;
+    height: 200px;
+    background-color: rgb(187, 177, 177);
+    margin-top: 20px;
+}
+.mauxanhtodung {
+    height: 480px;
+    width: 820px;
+    background-color: lightgreen;
+    border: solid 1px white;
+} 
+.xanhdamoduoimauxanhtodung {
+    float: left;
+    width: 203.75px;
+    height: 50px;
+    background-color: green;
+    justify-content: space-around;
+    border: solid 1px white;
+}
+.row, .row2 {
+    padding: 5px;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.container1, .container2 {
+    display: inline-block;
+}
+.container2 {
+    padding-left: 20px;
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    padding: 0;
+    margin: 0;
+}
+.xanhnuocbien {
+    float: left;
+    width: 545px;
+    height: 50px;
+    background-color: lightblue;
+
+}
+.canhxanhnuocbien {
+    float: left;
+    width: 270px;
+    height: 50px;
+    background-color: red;
+}
+.mauvang {
+    float: left;
+    width: 200px;
+    height: 150px;
+    background-color: yellow;
+    justify-content: space-between;
+    border: solid 20px white;
+}
+.oduoimauvang {
+    
+}
+.row3 {
+    display:inline-block;
+    padding: 10px;
+}
+.mauxanhtodung, .row, .row2, .row3, .row4 {
+    margin-left: 20px;
+}
+.row4 {
+    display: inline-block;
+    padding: 20px;
+}
+footer {
+    width: 75%;
+    height: 20px;
+    position: absolute;
+}
